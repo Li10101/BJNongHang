@@ -1,0 +1,144 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- widgetMessage TextView -->
+    <style name="WidgetMessageTextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- widgetMessageProcess TextView -->
+    <style name="WidgetMessageProcessTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawableLeft">@drawable/message_process_point</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- widgetMessageProcess ImageView -->
+    <style name="WidgetMessageProcessImageView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">17dp</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_marginLeft">12.8dp</item>
+        <item name="android:layout_marginTop">-4dp</item>
+        <item name="android:src">@drawable/message_process_tiao</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- RegisterActivity EditText -->
+    <style name="RegisterActivityEditText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/et_selecter_register</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+    </style>
+
+    <!-- widget_message_pic ImageView -->
+    <style name="MessagePicWidget">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">350dp</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:scaleType">centerCrop</item> 
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:src">@drawable/bg_gif</item>
+    </style>
+    <!-- 组合控件的title -->
+    <style name="widget_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <!-- widget_choose_worker.xml TextView -->
+    <style name="ChooseWorkerWidgetTextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:text">第2组工人</item>
+    </style>
+
+    <style name="ChooseWorkerWidgetImageButton">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ChooseWorkerWidgeetLinearLayouot">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <style name="roomRatingBar">
+        <item name="android:progressDrawable">@drawable/room_rating_bar</item>
+        <item name="android:minHeight">25dp</item>
+        <item name="android:maxHeight">25dp</item>
+    </style>
+
+    <style name="MyDialogStyle">  
+       <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->  
+       <item name="android:windowFrame">@null</item><!--边框-->  
+       <item name="android:windowNoTitle">true</item><!--无标题-->  
+       <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->  
+       <item name="android:windowIsTranslucent">true</item><!--半透明-->  
+       <item name="android:windowContentOverlay">@null</item><!--内容覆盖 -->  
+       <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item><!-- 窗口样式Dialog -->  
+       <item name="android:backgroundDimEnabled">true</item><!--模糊-->       
+　</style>
+
+    <style name="PermissionBlueStyle">
+        <item name="PermissionTitleColor">@color/colorPrimaryDark</item>
+        <item name="PermissionMsgColor">@color/colorPrimary</item>
+        <item name="PermissionItemTextColor">@color/colorPrimary</item>
+        <item name="PermissionBackround">@drawable/shape_bg_white</item>
+        <item name="PermissionButtonTextColor">@android:color/white</item>
+    </style>
+
+    <style name="ImageStytle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">320dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@drawable/icon_stub</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+</resources>

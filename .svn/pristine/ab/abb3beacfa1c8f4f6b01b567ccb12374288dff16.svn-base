@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_result.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_ping_jia.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_ping_jia.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\expandlistview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\expandlistview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_boss.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_boss.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\pp_group.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\pp_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_worker_content.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_worker_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_request_permission.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\8f2d5cf92c74b7f30f27b65d7952cef126b34d59\\output\\res\\layout\\dialog_request_permission.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\title_top.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\title_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\tab_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_user.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\expandlistview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\expandlistview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\permission_info_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\8f2d5cf92c74b7f30f27b65d7952cef126b34d59\\output\\res\\layout\\permission_info_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_user_group.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_user_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_process.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_process.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_worker_content.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_worker_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\SlidingMenuLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\datedialog.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\datedialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_function.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_function.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_asset_des.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_asset_des.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_boss.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_boss.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_group.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_select_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\assign_group.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\assign_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_head.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\search_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_left.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\slidingmenu_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_drawing_board.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_drawing_board.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_function.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_function.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_drawing_board.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_drawing_board.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_gongdan.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_gongdan.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_choose_worker.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_choose_worker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\equment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\equment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message_process.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_message_process.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandablelist_child_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_expandablelist_child_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_see_asset_content.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_see_asset_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_title.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repairs.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_repairs.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\assign_group.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\assign_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repairs.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_repairs.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_allot_options.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\dialog_allot_options.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_search.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\dialog_edit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_asset_content.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_asset_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandablelist_child_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_expandablelist_child_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_richpush_actionbar_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\jpush_richpush_actionbar_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_horizontial.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_horizontial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gongdanorder.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_gongdanorder.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_order_manager.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_order_manager.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\equament_view.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\equament_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_left.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\slidingmenu_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workdes.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_workdes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_process.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_process.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\permission_info_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\8f2d5cf92c74b7f30f27b65d7952cef126b34d59\\output\\res\\layout\\permission_info_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandablelist_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_expandablelist_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_request_permission.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\8f2d5cf92c74b7f30f27b65d7952cef126b34d59\\output\\res\\layout\\dialog_request_permission.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workdes.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_workdes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\datedialog.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\datedialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandablelist_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_expandablelist_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_user_group.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_user_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_order_manager.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_order_manager.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_draw_name.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_draw_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_allot_maintain.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\dialog_allot_maintain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\title_top.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\title_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_allot_maintain.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\dialog_allot_maintain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_sliding_group.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_sliding_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_function.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_function.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_horizontial.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_horizontial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message_pic.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_message_pic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_title.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_function.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_function.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_draw_name.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_draw_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_worker_des.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_worker_des.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_result.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_head.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\search_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_state.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\equament_view.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\equament_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_gongdan.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_gongdan.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_allot_options.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\dialog_allot_options.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_ping_jia.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_ping_jia.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_worker_des.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_worker_des.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_state.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_sliding_group.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_sliding_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\equment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\equment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\SlidingMenuLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_user.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\view_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_richpush_actionbar_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\jpush_richpush_actionbar_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message_pic.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_message_pic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_choose_worker.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\widget_choose_worker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gongdanorder.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_gongdanorder.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_message_process.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\widget_message_process.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\tab_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\dialog_edit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_search.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\layout\\view_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    }
+]

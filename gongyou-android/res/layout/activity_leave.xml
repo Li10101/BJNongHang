@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cart_choice"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context=".ui.activity.LeaveActivity">
+
+    <include layout="@layout/common_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="2"-->
+                    <!--android:drawableLeft="@drawable/flag"-->
+                    <!--android:text="请假人" />-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/tv_leave_people"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="8"-->
+                    <!--android:drawableRight="@drawable/jiaobiao"-->
+                    <!--android:drawablePadding="5dp"-->
+                    <!--android:gravity="right"-->
+                    <!--android:hint="请选择"-->
+                    <!--android:textColor="#bfbfbf" />-->
+
+            <!--</LinearLayout>-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="请假类型" />
+
+                <TextView
+                    android:id="@+id/tv_leave_type"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/jiaobiao"
+                    android:layout_weight="7"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请选择"
+                    android:textColor="#bfbfbf" />
+
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/ll_open_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="开始时间" />
+
+                <TextView
+                    android:id="@+id/open_time_data"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="7"
+                    android:gravity="right"
+                    android:paddingRight="5dp"
+                    android:hint="请选择"
+                    android:textColor="#bfbfbf" />
+
+                <ImageView
+                    android:id="@+id/iv_fuzhu"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/ll_end_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="结束时间" />
+
+                <TextView
+                    android:id="@+id/end_time_data"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="7"
+                    android:paddingRight="5dp"
+                    android:gravity="right"
+                    android:hint="请选择"
+                    android:textColor="#bfbfbf" />
+                <ImageView
+                    android:id="@+id/iv_end_fuzhu"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="请假天数" />
+
+                <EditText
+                    android:id="@+id/et_leave_number"
+                    android:background="@drawable/edit_back"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:textSize="15dp"
+                    android:hint="请输入请假天数"
+                    android:inputType="numberDecimal"
+                    android:textColor="#bfbfbf" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="请假理由" />
+
+                <EditText
+                    android:background="@drawable/edit_back"
+                    android:id="@+id/et_leave_reason"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="top"
+                    android:lines="5"
+                    android:maxLines="10"
+                    android:hint="请输入"/>
+                <!--<MultiAutoCompleteTextView-->
+                    <!--android:background="@drawable/edit_back"-->
+                    <!--android:id="@+id/mactv_leave_reason"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:lines="2"-->
+                    <!--android:maxLines="10"-->
+                    <!--android:hint="" />-->
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="图片" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/rv_showImags"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                </android.support.v7.widget.RecyclerView>
+                <!--<ImageView-->
+                    <!--android:id="@+id/iv_add_image"-->
+                    <!--android:layout_width="60dp"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_marginTop="5dp"-->
+                    <!--android:src="@drawable/tupian" />-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="审批人" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/work_flow"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="vertical"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="抄送人" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60dp"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_marginTop="20dp"-->
+                    <!--android:src="@drawable/chaosong" />-->
+            <!--</LinearLayout>-->
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/bt_leave_submit"
+        android:background="@drawable/btn_login_press"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="提交"/>
+    <LinearLayout
+        android:id="@+id/ll_workflow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone">
+        <Button
+            android:id="@+id/bt_cancel"
+            android:background="@drawable/btn_login_press"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="拒绝"/>
+        <Button
+            android:id="@+id/bt_approval"
+            android:background="@drawable/btn_login_press"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="审批"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="@color/white"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    >
+
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/tv_descri_person"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="描述人"
+        android:visibility="gone"
+        />
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/tv_descri_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="描述时间"
+        android:visibility="gone"/>
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/tv_descri_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="描述内容"
+        android:visibility="gone"
+        android:layout_marginBottom="5dp"/>
+    <ImageView
+        android:id="@+id/iv_descri_image1"
+        style="@style/ImageStytle"/>
+
+    <ImageView
+        android:id="@+id/iv_descri_image2"
+        style="@style/ImageStytle"
+
+        />
+
+    <ImageView
+        android:id="@+id/iv_descri_image3"
+        style="@style/ImageStytle"
+        />
+
+    <ImageView
+        android:id="@+id/iv_descri_image4"
+        style="@style/ImageStytle"
+        />
+
+    <ImageView
+        android:id="@+id/iv_descri_image5"
+        style="@style/ImageStytle"
+        />
+
+    <ImageView
+        android:id="@+id/iv_descri_image6"
+        style="@style/ImageStytle"
+        />
+
+</LinearLayout>

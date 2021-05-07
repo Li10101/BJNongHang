@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/widget_title" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#cecece" />
+
+    <LinearLayout
+        android:id="@+id/ll_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_message0"
+            style="@style/WidgetMessageTextView" />
+
+        <TextView
+            android:id="@+id/tv_message1"
+            style="@style/WidgetMessageTextView" />
+
+        <TextView
+            android:id="@+id/tv_message2"
+            style="@style/WidgetMessageTextView" />
+
+        <TextView
+            android:id="@+id/tv_message3"
+            style="@style/WidgetMessageTextView" />
+
+        <ImageView
+            android:id="@+id/iv_pic0"
+            style="@style/MessagePicWidget" 
+            android:visibility="visible"/>
+
+        <ImageView
+            android:id="@+id/iv_pic1"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic2"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic3"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic4"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic5"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic6"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic7"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic8"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic9"
+            style="@style/MessagePicWidget" />
+
+        <ImageView
+            android:id="@+id/iv_pic10"
+            style="@style/MessagePicWidget" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="5dp"
+        android:background="#cecece" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#eeeeee" />
+
+</LinearLayout>

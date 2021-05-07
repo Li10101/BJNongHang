@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xyl.ui.activity.EditActivity">
+    <include layout="@layout/title_top"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="盘亏结果:" />
+
+        <RadioGroup
+            android:id="@+id/rg_inventory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_inventory_pz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="盘正" />
+
+            <RadioButton
+                android:id="@+id/rb_inventory_pk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="盘亏" />
+
+            <RadioButton
+                android:id="@+id/rb_inventory_py"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="盘盈" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="实物资产描述:" />
+
+        <EditText
+            android:id="@+id/et_physicalDes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="实物资产状态:" />
+
+        <RadioGroup
+            android:id="@+id/et_physicalStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/et_physicalStatus_zy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="在用" />
+
+            <RadioButton
+                android:id="@+id/et_physicalStatus_xz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="闲置" />
+
+            <RadioButton
+                android:id="@+id/et_physicalStatus_bs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="报损" />
+
+            <RadioButton
+                android:id="@+id/et_physicalStatus_qt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="其他" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="责任人:"/>
+        <TextView
+            android:gravity="center|left"
+            android:id="@+id/tv_responsibility"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@color/white"
+            android:hint="责任人"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:drawableRight="@drawable/user_into"/>
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="资产用途:" />
+
+        <EditText
+            android:id="@+id/et_equiAssetsUsed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="地点描述:" />
+
+        <EditText
+            android:id="@+id/et_statedLocality"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="备注:"/>
+        <EditText
+            android:id="@+id/et_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+            android:id="@+id/bt_edit_commit"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="确认"/>
+        <Button
+            android:id="@+id/bt_edit_clear"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:text="取消"/>
+
+    </LinearLayout>
+</LinearLayout>

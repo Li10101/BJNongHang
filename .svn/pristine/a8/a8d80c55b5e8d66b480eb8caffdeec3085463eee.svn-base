@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/android-async-http-1.4.8.jar"/>
+	<classpathentry kind="lib" path="libs/xutils-3.3.12.jar"/>
+	<classpathentry kind="lib" path="libs/jpush-android-2.0.6.jar"/>
+	<classpathentry kind="lib" path="libs/xUtils-2.6.14.jar"/>
+	<classpathentry kind="lib" path="libs/umeng-update-v2.7.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/BarCodeTest"/>
+	<classpathentry exported="true" kind="lib" path="libs/ZXing-core-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-collections-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ezmorph-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

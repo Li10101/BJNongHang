@@ -1,0 +1,177 @@
+package com.warehouse.utils;
+
+
+import android.content.Context;
+import com.warehouse.base.MyApplication;
+import com.warehouse.greendao.Cart;
+import com.warehouse.greendao.CartDao;
+import com.warehouse.greendao.DaoSession;
+import com.warehouse.greendao.TreasuryCartBean;
+import com.warehouse.greendao.TreasuryCartBeanDao;
+
+import java.util.List;
+public class GreendaoHelper {
+
+    public static void getQueryIdCart(Cart cart, long productId){
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        List<Cart> carts = cartDao.queryBuilder().where(CartDao.Properties.ProductId.eq(productId)).build().list();
+        if (carts!=null&&carts.size()>0) {
+            updateCart(cart, productId);
+        } else {
+            saveCart(cart);
+        }
+
+    }
+
+    public static void updateCart(Cart cart, long productId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        Cart unique = cartDao.queryBuilder().where(CartDao.Properties.ProductId.eq(productId)).build().unique();
+        if (unique!=null){
+            unique.setSaleCount(cart.getSaleCount());
+            cartDao.update(unique);
+        }
+    }
+    public static void saveCart(Cart cart) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        cartDao.save(cart);
+    }
+
+    public static int saleCount(Context cxt, int productId, int businessId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        List<Cart> carts = cartDao.queryBuilder().where(CartDao.Properties.ProductId.eq(productId)).build().list();
+        if (carts!=null&&carts.size()>0) {
+            return carts.get(0).getSaleCount();
+        } else {
+            return 0;
+        }
+    }
+    public static void deleteCart(int productId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        Cart unique = cartDao.queryBuilder().where(CartDao.Properties.ProductId.eq(productId)).build().unique();
+        if (unique !=null){
+            cartDao.deleteByKey(unique.getId());
+        }
+    }
+
+    public static void clearCart(boolean isSelected) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+        List<Cart> carts = cartDao.queryBuilder().where(CartDao.Properties.IsSelected.eq(isSelected)).build().list();
+        if (carts!=null&&carts.size()>0) {
+            cartDao.deleteAll();
+        }
+    }
+    public static List<Cart> getCartList(int businessId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        CartDao cartDao = daoSession.getCartDao();
+
+        List<Cart> carts = cartDao.queryBuilder().where(CartDao.Properties.BusinessId.eq(businessId)).build().list();
+       if (carts !=null){
+           return carts;
+       }else{
+           return null;
+       }
+
+    }
+
+
+    /**
+     * 出库模块数据库操作
+     * @param
+     * @param productId
+     */
+
+    public static void getQueryIdTreasury(TreasuryCartBean treasuryCartBean, long productId){
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        List<TreasuryCartBean> treasuryCartBeen = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.ProductId.eq(productId)).build().list();
+        if (treasuryCartBeen!=null&&treasuryCartBeen.size()>0) {
+            updateTreasury(treasuryCartBean, productId);
+        } else {
+            saveTreasury(treasuryCartBean);
+        }
+
+    }
+
+    public static void updateTreasury(TreasuryCartBean treasuryCartBean, long productId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        TreasuryCartBean unique = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.ProductId.eq(productId)).build().unique();
+        if (unique!=null){
+            unique.setSaleCount(treasuryCartBean.getSaleCount());
+            treasuryCartBeanDao.update(unique);
+        }
+    }
+    public static void updateTreasuryCart(Cart cart, long productId) {
+        TreasuryCartBean treasuryCartBean = new TreasuryCartBean();
+        treasuryCartBean.setName(cart.getName());
+        treasuryCartBean.setProductId(cart.getProductId());
+        treasuryCartBean.setSaleCount(cart.getSaleCount());
+        treasuryCartBean.setPrice(cart.getPrice());
+        treasuryCartBean.setProductType(cart.getProductType());
+        treasuryCartBean.setBusinessId(cart.getBusinessId());
+        treasuryCartBean.setIsSelected(cart.getIsSelected());
+        cart.setImageUrl(treasuryCartBean.getImageUrl());
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        TreasuryCartBean unique = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.ProductId.eq(productId)).build().unique();
+        if (unique!=null){
+            unique.setSaleCount(treasuryCartBean.getSaleCount());
+            treasuryCartBeanDao.update(unique);
+        }
+    }
+    public static void saveTreasury(TreasuryCartBean treasuryCartBean) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        treasuryCartBeanDao.save(treasuryCartBean);
+    }
+
+    public static int saleCountTreasury(Context cxt, int productId, int businessId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        List<TreasuryCartBean> treasuryCartBeans = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.ProductId.eq(productId)).build().list();
+        if (treasuryCartBeans!=null&&treasuryCartBeans.size()>0) {
+            return treasuryCartBeans.get(0).getSaleCount();
+        } else {
+            return 0;
+        }
+    }
+    public static void deleteTreasury(int productId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        TreasuryCartBean unique = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.ProductId.eq(productId)).build().unique();
+        if (unique !=null){
+            treasuryCartBeanDao.deleteByKey(unique.getId());
+        }
+    }
+
+    public static void clearTreasury(boolean isSelected) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        List<TreasuryCartBean> treasuryCartBeans = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.IsSelected.eq(isSelected)).build().list();
+        if (treasuryCartBeans!=null&&treasuryCartBeans.size()>0) {
+            treasuryCartBeanDao.deleteAll();
+        }
+    }
+    public static List<TreasuryCartBean> getTreasuryList(int businessId) {
+        DaoSession daoSession = MyApplication.getBaseApplication().getDaoSession();
+        TreasuryCartBeanDao treasuryCartBeanDao = daoSession.getTreasuryCartBeanDao();
+        List<TreasuryCartBean> treasuryCartBeans = treasuryCartBeanDao.queryBuilder().where(TreasuryCartBeanDao.Properties.BusinessId.eq(businessId)).build().list();
+        if (treasuryCartBeans !=null){
+            return treasuryCartBeans;
+        }else{
+            return null;
+        }
+
+    }
+
+
+
+
+
+}

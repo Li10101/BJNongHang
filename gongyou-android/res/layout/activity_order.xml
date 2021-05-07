@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_top" />
+
+    <View
+        android:id="@+id/view_shadow"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#55000000" />
+
+    <com.xyl.ui.widget.HorizontialListView
+        android:id="@+id/lv_horizon_state"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:visibility="gone">
+        
+    </com.xyl.ui.widget.HorizontialListView>
+    
+    <LinearLayout
+        android:id="@+id/ll_order_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/bt_order_all"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:background="#54A9DF"
+            android:onClick="allOrder"
+            android:text="全部"
+            android:textColor="#FFFFFF"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/bt_order_assignGroup"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:background="#F0F0F0"
+            android:textColor="#000000"
+            android:layout_weight="1"
+            android:onClick="assignGroup"
+            android:text="派给组"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/bt_order_worker"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:background="#F0F0F0"
+            android:onClick="assignWorker"
+            android:text="派给工人"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+	
+        <Button
+            android:id="@+id/bt_order_accept"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:background="#F0F0F0"
+            android:onClick="acceptOrder"
+            android:text="已接受"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+        
+        <Button
+            android:id="@+id/bt_order_loot"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:background="#F0F0F0"
+            android:onClick="lootOrder"
+            android:text="已抢单"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <com.xyl.ui.widget.PullToRefreshLayout
+        android:id="@+id/refresh_view_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/refresh_head" />
+
+        <ListView
+            android:id="@+id/content_view_order"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:divider="@color/gray"
+            android:dividerHeight="1dp" />
+    </com.xyl.ui.widget.PullToRefreshLayout>
+
+</LinearLayout>

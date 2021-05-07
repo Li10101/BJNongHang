@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cart_choice"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="健康情况（每日填报）" />
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="填报人" />
+
+                <TextView
+                    android:id="@+id/tv_tianbaoren"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="填报日期" />
+
+                <TextView
+                    android:id="@+id/tv_riqi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="上午/下午" />
+
+                <TextView
+                    android:id="@+id/tv_shangxia"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="形式" />
+
+                <TextView
+                    android:id="@+id/tv_xingshi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="员工体温是否正常是否＜37.3℃" />
+
+                <TextView
+                    android:id="@+id/tv_isdayu"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:gravity="center"-->
+                    <!--android:text="具体温度" />-->
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="10dp"-->
+                    <!--android:layout_weight="2"-->
+                    <!--android:text="7:00" />-->
+
+                <!--<EditText-->
+                    <!--android:id="@+id/et_zaoshang_shijian"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="8"-->
+                    <!--android:background="@drawable/seal_edit_back"-->
+                    <!--android:focusableInTouchMode="false"-->
+                    <!--android:focusable="false"-->
+                    <!--android:drawablePadding="5dp"-->
+                    <!--android:gravity="right"-->
+                    <!--android:hint="请输入"-->
+                    <!--android:textColor="#bfbfbf"-->
+                    <!--android:textSize="14sp" />-->
+
+            <!--</LinearLayout>-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="具体温度" />
+
+                <EditText
+                    android:id="@+id/et_jvtiwendu"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="目前状态" />
+
+                <TextView
+                    android:id="@+id/tv_mQzhuangtai"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否有发烧、咳嗽、感冒等症状" />
+
+                <TextView
+                    android:id="@+id/tv_isfkg"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="共同生活家人是否有发热、咳嗽、感冒等症状" />
+
+                <TextView
+                    android:id="@+id/tv_jiarenshifou"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="备注（是否有需要报告的其他情况）" />
+
+                <EditText
+                    android:id="@+id/et_beizhu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/seal_edit_back"
+                    android:gravity="left"
+                    android:hint="请输入"
+                    android:lines="4"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否接触疫情高发区人员" />
+
+                <TextView
+                    android:id="@+id/shifoujiechu"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否密切接触者" />
+
+                <TextView
+                    android:id="@+id/tv_shifoumiqiejcz"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否疑似病例" />
+
+                <TextView
+                    android:id="@+id/tv_shifouyisibl"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否确诊病例" />
+
+                <TextView
+                    android:id="@+id/tv_shifouqvezhenbl"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="注：该卡由员工所属单位组织填报并管理，作为员工返岗复工是否符合健康标准及以后情况追溯依据。" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/tv_commit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_login_press"
+        android:text="提交" />
+
+</LinearLayout>

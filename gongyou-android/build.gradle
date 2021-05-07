@@ -1,0 +1,129 @@
+apply plugin: 'android'
+apply plugin: 'com.jakewharton.butterknife'
+
+
+dependencies {
+    implementation fileTree(include: '*.jar', dir: 'libs')
+    implementation project(':SlidingMenuLibrary')
+    implementation project(':viewpager-library')
+    implementation files('libs/jcore-android-1.1.8.jar')
+    implementation files('libs/jpush-android-3.1.0.jar')
+    implementation 'me.leolin:ShortcutBadger:1.1.16@aar'
+    implementation 'com.github.bumptech.glide:glide:4.7.1'
+    implementation 'me.weyye.hipermission:library:1.0.7'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'org.greenrobot:greendao:3.2.0'
+    implementation 'org.greenrobot:greendao-generator:3.2.0'
+    implementation project(':XRefreshlibrary')
+    implementation 'com.jakewharton:butterknife:10.2.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.0'
+    //    implementation 'com.jakewharton:butterknife:8.8.1'
+    //    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    implementation 'com.zhihu.android:matisse:0.5.2-beta4'
+    implementation 'com.contrarywind:Android-PickerView:4.1.6'
+    implementation 'com.github.ikidou:FragmentBackHandler:2.1'
+
+    implementation 'org.greenrobot:eventbus:3.0.0'
+    implementation 'com.yanzhenjie:permission:2.0.0-rc12'
+
+    //implementation 'com.tencent.bugly:crashreport_upgrade:latest.release'
+    //其中latest.release指代最新版本号，也可以指定明确的版本号，例如1.2.0
+    //implementation 'com.tencent.bugly:nativecrashreport:latest.release'
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40'
+    
+    implementation files('libs/ZXing-core-3.2.1.jar')
+    implementation(name: 'bugly_crashreport_upgrade-1.5.0', ext: 'aar')
+}
+
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '28.0.2'
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+    useLibrary 'org.apache.http.legacy'
+    repositories {
+        mavenCentral()
+    }
+    allprojects {
+        repositories {
+            google()
+            jcenter()
+            maven {
+                url "https://jitpack.io"
+            }
+            flatDir {
+                dirs 'libs'
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        minSdkVersion 23
+        targetSdkVersion 26
+        multiDexEnabled true
+        ndk {
+            //设置支持的SO库架构
+            abiFilters 'armeabi', 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['src/main/jniLibs']
+            jniLibs.srcDirs = ['libs']
+
+        }
+
+//        sourceSets {
+//            main {
+//                jniLibs.srcDirs = ['libs']
+//            }
+//        }
+        // Move the tests to tests/java, tests/res, etc...
+        androidTest.setRoot('tests')
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    lintOptions {
+
+        checkReleaseBuilds false
+
+        abortOnError false
+
+    }
+    configurations.all {
+
+        resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+            def requested = details.requested
+            if (requested.group == 'com.android.support') {
+                if (!requested.name.startsWith("multidex")) {
+                    details.useVersion '25.3.0'
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context=".ui.activity.ApprolvalAllActivity">
+
+    <include
+        android:id="@+id/in_title"
+        layout="@layout/common_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:id="@+id/scll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        app:layout_constraintTop_toBottomOf="@id/in_title">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cl_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bt_approval_flag"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/circular"
+                android:gravity="center"
+                android:text="张三"
+                android:textColor="@color/white"
+                app:layout_constraintLeft_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/cl_layout" />
+
+            <TextView
+                android:id="@+id/bt_approval_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:text="张三"
+                app:layout_constraintLeft_toRightOf="@id/bt_approval_flag"
+                app:layout_constraintTop_toBottomOf="@id/cl_layout" />
+
+            <TextView
+                android:id="@+id/status_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="等待审核"
+                android:textColor="@color/color_fed952"
+                app:layout_constraintLeft_toRightOf="@id/bt_approval_flag"
+                app:layout_constraintTop_toBottomOf="@id/bt_approval_name" />
+
+            <View
+                android:id="@+id/view_line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="@color/black"
+                app:layout_constraintTop_toBottomOf="@id/bt_approval_flag" />
+
+            <LinearLayout
+                android:id="@+id/llay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintTop_toBottomOf="@id/view_line">
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_approval_line11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/ll_approval_line12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/ll_approval_line13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/approval_text13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="审批编号"
+                        android:textColor="@color/frament_tab_color" />
+
+                    <TextView
+                        android:id="@+id/approval_content13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="2019000000000000" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+    <View
+        android:layout_width="match_parent"
+        android:background="@color/big_red"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:id="@+id/ll_bottom_approval"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:id="@+id/rl_update_data"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/bianji" />
+
+            <TextView
+                android:id="@+id/tv_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv_update"
+                android:layout_centerHorizontal="true"
+                android:text="编辑" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_delete_order"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_order_delete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/order_delete" />
+
+            <TextView
+                android:id="@+id/tv_order_delete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv_order_delete"
+                android:layout_centerHorizontal="true"
+                android:text="删除" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+    <!--<LinearLayout
+        android:id="@+id/ll_bottom_approval"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_comeback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/comeback" />
+
+            <TextView
+                android:id="@+id/tv_comeback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv_comeback"
+                android:layout_centerHorizontal="true"
+                android:text="撤回" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/reject_approval"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/text_back"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="拒绝"
+                android:textColor="@color/light_blue" />
+
+            <TextView
+                android:id="@+id/adopt_approval"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/approval_button_back"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="通过"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+    </LinearLayout>-->
+
+
+</LinearLayout>

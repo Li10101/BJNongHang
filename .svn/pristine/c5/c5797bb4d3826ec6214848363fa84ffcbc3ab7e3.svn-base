@@ -1,0 +1,159 @@
+package com.xyl.ui.view;
+
+import java.util.ArrayList;
+
+import android.content.Context;
+import android.content.Intent;
+import android.util.AttributeSet;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.BaseAdapter;
+import android.widget.GridView;
+import android.widget.ImageView;
+import android.widget.TextView;
+import android.widget.Toast;
+import com.xyl.R;
+import com.xyl.base.BaseResource;
+import com.xyl.domain.LoginBean;
+import com.xyl.domain.WorkInfoBean;
+import com.xyl.ui.activity.BossInfoActivity;
+import com.xyl.ui.activity.DeviceActivity;
+import com.xyl.ui.activity.HomeActivity;
+import com.xyl.ui.activity.UserRepairsActivity;
+import com.xyl.ui.activity.WorkOrderActivity;
+import com.xyl.ui.widget.NotifyTextView;
+import com.xyl.utils.SharedPreferencesUtil;
+
+public class FunctionView extends View {
+
+	private View functionView;
+	private GridView gv_view_function;
+	private Context mContext;
+	private ArrayList<WorkInfoBean> resourceGrid;
+	private LoginBean loginBean;
+	public static MyBaseAdapter mAdapter;
+	private int tab;
+
+	public FunctionView(Context context, AttributeSet attrs, int defStyle) {
+		super(context, attrs, defStyle);
+	}
+
+	public FunctionView(Context context, AttributeSet attrs) {
+		super(context, attrs);
+	}
+
+	public FunctionView(Context context) {
+		super(context);
+		mContext = context;
+		initView();
+		initListener();
+		initData();
+	}
+	
+	private void initView() {
+		functionView = View.inflate(mContext, R.layout.view_function, null);
+		gv_view_function = (GridView) functionView
+				.findViewById(R.id.gv_view_function);
+	}
+
+	private void initListener() {
+		gv_view_function.setOnItemClickListener(new OnItemClickListener() {
+
+			@Override
+			public void onItemClick(AdapterView<?> arg0, View arg1, int position,
+					long arg3) {
+				gridSelecter(position);
+			}
+		});
+	}
+	
+	public void gridSelecter(int position){
+		String des = resourceGrid.get(position).des;
+		if(position==0 && "0".equals(loginBean.type)){
+			Intent intent = new Intent(mContext,UserRepairsActivity.class);
+			intent.putExtra("LoginBean", loginBean);
+			mContext.startActivity(intent);
+		}else if(!loginBean.type.equals("5")&&"资产管理".equals(des)||("预防性维保".equals(des)|| "设备维护".equals(des))){
+			if ("预防性维保".equals(des)|| "设备维护".equals(des)){
+				tab = 0;
+			}else if ("资产管理".equals(des)){
+				tab = 1;
+			}
+			Intent intent = new Intent(mContext,DeviceActivity.class);
+			intent.putExtra("LoginBean", loginBean);
+			intent.putExtra("position", position);
+			intent.putExtra("tab",tab);
+			intent.putExtra("title", des);
+			mContext.startActivity(intent);
+		}else if("5".equals(loginBean.type) && ("工单".equals(des) || "设备报警".equals(des)|| "能源管理".equals(des)|| "资产管理".equals(des))){
+			Intent intent = new Intent(mContext,BossInfoActivity.class);
+			intent.putExtra("title", des);
+			intent.putExtra("LoginBean", loginBean);
+			mContext.startActivity(intent);
+		}else if("空气质量".equals(des)){
+			Toast.makeText(mContext, "暂未开通", Toast.LENGTH_SHORT).show();
+			return ;
+		}else{
+			//TODO 跳到ListView展示条目的页面
+			Intent intent = new Intent(mContext,WorkOrderActivity.class);
+			intent.putExtra("position", position);
+			intent.putExtra("LoginBean", loginBean);
+			intent.putExtra("WorkInfoBean", resourceGrid.get(position));
+			mContext.startActivity(intent);
+		}
+	}
+
+	private void initData() {
+		loginBean = (LoginBean)(((HomeActivity)mContext).getIntent().getSerializableExtra("LoginBean"));
+		BaseResource resource = new BaseResource();
+		resourceGrid = resource.getResourceGrid(loginBean.type);
+		mAdapter = new MyBaseAdapter();
+		gv_view_function.setAdapter(mAdapter);
+	}
+	
+	public int getFunctionCount(){
+		return resourceGrid.size();
+	}
+
+	public static MyBaseAdapter getFunctionAdapter(){
+		return mAdapter;
+	}
+
+	public View getView() {
+		return functionView;
+	}
+	
+	public class MyBaseAdapter extends BaseAdapter{
+        
+		@Override
+		public int getCount() {
+			return resourceGrid.size();
+		}
+
+		@Override
+		public Object getItem(int position) {
+			return null;
+		}
+        
+		@Override
+		public long getItemId(int position) {
+			return position;
+		}
+        
+		@Override
+		public View getView(int position, View convertView, ViewGroup parent) {
+			View view= View.inflate(mContext, R.layout.item_function, null);
+			ImageView iv_gvitem = (ImageView)view.findViewById(R.id.iv_gvitem);
+			TextView tv_gvitem = (TextView)view.findViewById(R.id.tv_gvitem);
+			NotifyTextView tv_notify_count = (NotifyTextView)view.findViewById(R.id.tv_notify_count);
+			iv_gvitem.setImageResource(resourceGrid.get(position).resId);
+			tv_gvitem.setText(resourceGrid.get(position).des);
+			tv_notify_count.setNotifyCount((Integer)SharedPreferencesUtil.getParam(mContext, String.valueOf(position), 0));
+			
+			
+			return view;
+		}
+	}
+}

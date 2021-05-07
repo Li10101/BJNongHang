@@ -1,0 +1,4 @@
+include ':viewpager-library', ':XRefreshlibrary'
+include ':SlidingMenuLibrary'
+include ':gongyou-android'
+project(':XRefreshlibrary').projectDir = new File('XRefreshViewlibrary')

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#eeeeee</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="viewcolor">#c9c3c3</color>
+    <color name="colorUserInfo">#969696</color>
+
+    <color name="colorFenRed">#4dff40b6</color>
+    <color name="colorLan">#bc9650f1</color>
+    <color name="colorQi">#4d40ffe6</color>
+    <color name="colorgreen">#3f82b5</color>
+
+
+    <color name="login_back">#A52A2A</color>
+    <color name="biaoti_back">#cca52a2a</color>
+    <color name="accent">#FF4081</color>
+    <color name="title_bag">#2196F3</color>
+    <color name="text_color_context">#666666</color><!-- 字体颜色  标题灰色 -->
+    <color name="bag_gray">#FFFFFF</color>
+    <color name="bag_gray_transparent">#00FFFFFF</color>
+    <color name="frament_tab_color">#ded6d6</color>
+    <color name="cart_color">#f3f2f2</color>
+    <color name="cart_choice">#e6e6e6</color>
+    <color name="cart_choice_color">#b4b4b4</color>
+    <color name="bg_color">#666633</color>
+    <color name="big_red">#ff66</color>
+    <color name="bg_Gray_light">#EEEEEE</color>
+    <color name="ban_tou">#b0000000</color>
+
+
+    <color name="home_back_unselected">#676767</color>
+    <color name="home_back_selected">#3883D1</color>
+    <color name="home_back_selected01">#E24242</color>
+    <color name="title_back">#2F83C7</color>
+    <color name="product_detail_common">#666666</color>
+    <color name="text_progress">#18b4ed</color>
+    <color name="title_text">#26B8EE</color>
+    <color name="divider_line">#e1e1e1</color>
+    <color name="product_red_common">#e84768</color>
+    <color name="round_red_common">#DC143C</color>
+    <color name="my_title_bg">#28baed</color>
+    <color name="more_text">#5A6E9E</color>
+    <color name="product_detail">#cfc6c6</color>
+
+    <color name="color_333333">#333333</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_fed952">#fed952</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_cdcdcd">#cdcdcd</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_5a79b7">#5a79b7</color>
+    <color name="color_00ffffff">#00ffffff</color>
+    <color name="color_efeff4">#efeff4</color>
+    <color name="color_c0c4ce">#efeff4</color>
+    <color name="color_bfbfbf">#bfbfbf</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_cc0000">#cc0000</color>
+    <color name="color_d0d0d0">#d0d0d0</color>
+    <color name="color_ffff4444">#ffff4444</color>
+    <color name="color_ff33b5e5">#ff33b5e5</color>
+    <color name="color_dddddd">#dddddd</color>
+    <color name="color_fd4634">#fd4634</color>
+
+    <!-- QR_Code -->
+
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_minor_text1">#ffd4d3d3</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="system_bar_color">#fed952</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#44B2FE</color>
+    <color name="file_picker_title">#4A4A4A</color>
+    <color name="file_picker_des">#86848B</color>
+    <color name="file_bottom_line">#ECECEC</color>
+    <color name="light_black">#ECECEC</color>
+
+
+    <color name="es_bg">#F5F5F5</color>
+    <color name="es_font_white">#FFFFFF</color>
+    <color name="es_green">#01AE66</color>
+    <color name="es_green1">#4001ae66</color>
+    <color name="es_bg_white">#FFFFFF</color>
+    <color name="yellow">#FF9800</color>
+    <color name="red">#FF5722</color>p
+    <color name="pink">#54ff3122</color>
+
+
+    <color name="es_font_1">#313131</color>
+    <color name="es_font_2">#616161</color>
+    <color name="es_font_3">#919191</color>
+    <color name="es_font_4">#B0BDC9</color>
+    <color name="es_divider">#F5F5F5</color>
+
+    <color name="viewfinder_laser">#ffcc0000</color>
+
+</resources>

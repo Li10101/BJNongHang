@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\raw\\realm_properties"
+    }
+]

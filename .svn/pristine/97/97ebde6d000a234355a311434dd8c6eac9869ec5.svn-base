@@ -1,0 +1,113 @@
+package com.warehouse.view;
+
+import android.content.Context;
+import android.support.annotation.Nullable;
+import android.text.TextUtils;
+import android.util.AttributeSet;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+
+import com.warehouse.R;
+
+
+/**
+ * Created by 47500 on 2017/8/24.
+ */
+
+public class AddSub extends LinearLayout implements View.OnClickListener {
+    private ImageView iv_sub;
+    private TextView tv_content;
+    private ImageView iv_add;
+    private Context mContext;
+    private int value = 1;
+    private int maxValue = 100;
+    private int minValue = 1;
+    public AddSub(Context context, @Nullable AttributeSet attrs) {
+        super(context, attrs);
+        this.mContext = context;
+        View view = View.inflate(context,R.layout.addsub,this);
+        iv_sub = (ImageView) view.findViewById(R.id.iv_sub);
+        tv_content = (TextView) view.findViewById(R.id.tv_content);
+        iv_add = (ImageView) view.findViewById(R.id.iv_add);
+        int value = getValue();
+        setValue(value);
+        iv_sub.setOnClickListener(this);
+        iv_add.setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()){
+            case R.id.iv_sub:
+                subNumber();
+                break;
+            case R.id.iv_add:
+                 addNumber();
+                break;
+        }
+    }
+
+    private void addNumber() {
+        if (value<maxValue){
+            value++;
+        }
+        setValue(value);
+        if (onNumberChangeListener!=null){
+            onNumberChangeListener.onNumberChange(value);
+        }
+    }
+
+    private void subNumber() {
+        if (value>minValue){
+            value--;
+        }
+        setValue(value);
+        if (onNumberChangeListener!=null){
+            onNumberChangeListener.onNumberChange(value);
+        }
+    }
+
+    public int getValue() {
+        String stvalue = tv_content.getText().toString().trim();
+        if (!TextUtils.isEmpty(stvalue)){
+            value = Integer.parseInt(stvalue);
+        }
+        return value;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+        tv_content.setText(value+"");
+    }
+
+    public int getMaxValue() {
+        return maxValue;
+    }
+
+    public void setMaxValue(int maxValue) {
+        this.maxValue = maxValue;
+    }
+
+    public int getMinValue() {
+        return minValue;
+    }
+
+    public void setMinValue(int minValue) {
+        this.minValue = minValue;
+    }
+
+    /**
+     * 当数量发生变化的时候回调
+     */
+    public interface OnNumberChangeListener{
+        void onNumberChange(int value);
+    }
+
+    private OnNumberChangeListener onNumberChangeListener;
+
+    public void setOnNumberChangeListener(OnNumberChangeListener onNumberChangeListener) {
+        this.onNumberChangeListener = onNumberChangeListener;
+    }
+}

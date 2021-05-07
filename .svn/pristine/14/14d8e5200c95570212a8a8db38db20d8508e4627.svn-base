@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_allow.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_work_allow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dl.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_dl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_nengyuan.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_boss_nengyuan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_commit.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\btn_commit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_function_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_function_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_group_none.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_group_none.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_bg.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_state.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_user_state.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightmenu.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\rightmenu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightmenu.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\rightmenu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_fk.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_fk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_request_fix.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_request_fix.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_service_finish.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\menu_service_finish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\moren_bg.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\moren_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_allot.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\state_allot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_sb.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_sb.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_order_nomal.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\btn_order_nomal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_user_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_user_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\write_name.jpg",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\write_name.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_warg.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\menu_work_warg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftmenu_iv.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\leftmenu_iv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_call.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_user_call.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_iv.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\search_iv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_user.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\touxiang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_bx.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_bx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_bx.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_bx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kt.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_kt.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_service.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_function_service.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjia.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\tianjia.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_allot.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\state_allot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_tx.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_tx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_address.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_user_address.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_zs.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_zs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kqzl.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_kqzl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_notify.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_user_notify.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_function.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_function.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_zs.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_zs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_request_fix.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_request_fix.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_address.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_user_address.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_process_point.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\message_process_point.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftmenu_iv.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\leftmenu_iv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_notify.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_user_notify.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\new_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_failed.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_down.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\group_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_pressed.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\house_notification.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\house_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kq.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_kq.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_allot.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_function_allot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_tc.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_tc.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_photos.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\add_photos.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_finish.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\state_finish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_bg.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_comment.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_function_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_admin_mor_edit_up.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\img_admin_mor_edit_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\worker.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\worker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_delete.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\state_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_search_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_search_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_process_tiao.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\message_process_tiao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_xf.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_xf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_notify.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\bg_notify.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_sb.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_sb.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_mk.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_mk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_return.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\title_return.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_all.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\menu_work_all.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_into.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_into.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_function.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_user_function.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_warg.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_work_warg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_photos.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\add_photos.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_service.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_function_service.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\moren_bg.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\moren_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_group_none.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_group_none.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_nengyuan.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_boss_nengyuan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_gif.gif",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\bg_gif.gif"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjia.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\tianjia.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_mk.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_mk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_gn.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_gn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_protext.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\pre_protext.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_iv.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\search_iv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_into.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_into.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\house_notification.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\house_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\refreshing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_pj.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_user_pj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_icon_big.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accept_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\accept_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_search.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\group_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_sxh.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_sxh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\touxiang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_state.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_user_state.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sao.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\sao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_fail.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\refresh_fail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_kongqi.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_boss_kongqi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_logout.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_user_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_request.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_function_request.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_down.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\group_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fense.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\fense.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_comment.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_function_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_group.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\state_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_gn.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_gn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_shequ.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_boss_shequ.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_pre.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_work_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\all_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_all.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\menu_work_all.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_xf.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_xf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_commit.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\btn_commit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_icon_big.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_tc.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_tc.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_gif.gif",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\bg_gif.gif"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_up.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\group_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_search_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_search_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_lj.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_lj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_process_tiao.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\message_process_tiao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_fk.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_fk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\finish_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_me.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\menu_work_me.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_jk.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_jk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dt.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_dt.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_focused.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\worker.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\worker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\take_photos.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\take_photos.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_normal.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_group.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\state_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_user.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_error.jpg",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\bg_error.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_finish.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\state_finish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\high.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\high.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_jk.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_jk.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_search.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\bg_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kq.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_kq.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_workinfo.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_boss_workinfo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_mj.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_mj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_ny.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_ny.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\medium.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\medium.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\take_photos.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\take_photos.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_order_nomal.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\btn_order_nomal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_user_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_user_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_succeed.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\refreshing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\finish_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_mj.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_mj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kt.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_kt.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_sxh.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_sxh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_ny.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_ny.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_failed.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_pre.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_work_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_focused.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_pen.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\edit_pen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_service_finish.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\menu_service_finish.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dg.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_dg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\high.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\high.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_return.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\title_return.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_delete.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\state_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_workinfo.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_boss_workinfo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_process_point.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\message_process_point.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\medium.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\medium.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_lj.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_lj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_request.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\user_function_request.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_call.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_user_call.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_warg.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\menu_work_warg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\group_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_tx.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_tx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warn_work.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\warn_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sao.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\sao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_warg.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_work_warg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_function_allot.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\user_function_allot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_tf.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_tf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dt.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_dt.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_kongqi.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_boss_kongqi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\all_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_function.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_function.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_protext.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\pre_protext.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accept_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\accept_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dl.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_dl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_pressed.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warn_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\warn_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_home.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\logo_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_work_me.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\menu_work_me.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_succeed.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fense.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\fense.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_up.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\group_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_notify.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\bg_notify.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_kqzl.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_kqzl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_work_allow.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_work_allow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_pj.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_user_pj.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_request.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_user_request.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_tf.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\dv_tf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_home.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\logo_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_fail.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\refresh_fail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dv_dg.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\dv_dg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_function.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_user_function.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\mm_title_back_normal.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_work.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\new_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_user_logout.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_user_logout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_search.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\iv_home_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_admin_mor_edit_up.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\img_admin_mor_edit_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_search.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\bg_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_pen.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\edit_pen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.PNG",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.PNG"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_home_function_selecter.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\iv_home_function_selecter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_user_request.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\home_user_request.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_error.jpg",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\bg_error.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_boss_shequ.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\home_boss_shequ.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\47500\\.android\\build-cache\\ba18c42000ea08eadbf3cba3f3bf801e2a5c69d3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\write_name.jpg",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\gongyou-android\\res\\drawable-hdpi\\write_name.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\gongyou-android\\res\\drawable-hdpi\\delete.png"
+    }
+]

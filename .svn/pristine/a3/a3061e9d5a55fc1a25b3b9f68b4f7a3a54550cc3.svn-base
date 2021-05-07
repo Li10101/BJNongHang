@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__text_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__text_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BJNongHang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__text_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\BJNongHang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__text_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\XinDongFang\\SlidingMenuLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\XinDongFang\\viewpager-library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    }
+]

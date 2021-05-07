@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">工作软件</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="head" translatable="false">这里是HeadView</string>
+    <string name="pull_to_refresh" translatable="false">下拉刷新</string>
+    <string name="release_to_refresh" translatable="false">释放立即刷新</string>
+    <string name="refreshing" translatable="false">正在刷新...</string>
+    <string name="refresh_succeed" translatable="false">刷新成功</string>
+    <string name="refresh_fail" translatable="false">刷新失败</string>
+    <string name="loadmore" translatable="false">加载更多</string>
+    <string name="loading" translatable="false">正在加载...</string>
+    <string name="scan_text" translatable="false">将二维码放入框内, 即可自动扫描</string>
+    <string name="cart">购物车</string>
+    <string name="cart_clear">清空全部</string>
+    <string name="error_gif">fdnkdgndfg</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="file_normal">常用文件</string>
+    <string name="file_all">全部文件</string>
+    <string name="empty_data">没有数据</string>
+    <string name="not_available">sd卡不可用</string>
+    <string name="already_select">已选择：%s</string>
+    <string name="file_select_res">确定%s</string>
+    <string name="file_select_max">最多选择%d个文件</string>
+    <string name="view_analysis">查看解析</string>
+    <string name="answer_analysis">答案解析</string>
+    <string name="unanswered">未作答</string>
+
+    <string name="app_base_url">https://www.cuour.org</string>
+
+
+</resources>

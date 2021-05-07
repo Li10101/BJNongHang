@@ -1,0 +1,64 @@
+package com.xyl.base;
+
+import java.lang.Thread.UncaughtExceptionHandler;
+
+import org.xutils.x;
+
+import android.app.Application;
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.os.Handler;
+import cn.jpush.android.api.JPushInterface;
+
+import com.xyl.utils.SharedPreUtil;
+
+public class BaseApplication extends Application implements UncaughtExceptionHandler {
+
+	public static BaseApplication application;
+	
+	public static  BaseApplication getBaseApplication(){
+		return application;
+	}
+	
+	@Override
+	public void uncaughtException(Thread arg0, Throwable arg1) {
+	}
+	
+	private static Context mContext;
+	private static Handler mainHandler;
+	private static SharedPreferences sp;
+
+	@Override
+	public void onCreate() {
+		// TODO Auto-generated method stub
+		super.onCreate();
+		x.Ext.init(this);
+		JPushInterface.setDebugMode(true);
+		JPushInterface.init(this);
+		
+		application = this;
+		mContext = this;
+		mainHandler = new Handler();
+		sp = mContext.getSharedPreferences(SharedPreUtil.FILE_NAME, Context.MODE_PRIVATE);
+	}
+	
+	/**
+	 * 获取全局上下文对象
+	 * @return
+	 */
+	public static Context getContext(){
+		return mContext;
+	}
+	
+	/**
+	 * 获取主线程的Handler
+	 * @return
+	 */
+	public static Handler getMainHandler(){
+		return mainHandler;
+	}
+	
+	public static SharedPreferences getSp(){
+		return sp;
+	}
+}

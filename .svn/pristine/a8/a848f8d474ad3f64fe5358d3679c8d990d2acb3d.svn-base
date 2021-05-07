@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF">
+
+    <include 
+        layout="@layout/title_top"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.xyl.ui.widget.DrawingBoardWidget
+                android:id="@+id/db_draw"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" >
+            </com.xyl.ui.widget.DrawingBoardWidget>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/bt_makeSure"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/btn_selecter_register"
+                    android:text="确定" />
+
+                <Button
+                    android:id="@+id/bt_clear"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    android:textColor="#fff"
+                    android:background="@drawable/btn_selecter_register"
+                    android:text="取消" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+    
+
+</LinearLayout>

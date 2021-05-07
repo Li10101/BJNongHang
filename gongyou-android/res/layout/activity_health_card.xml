@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/cart_choice"
+    android:fitsSystemWindows="true"
+    >
+    <include layout="@layout/add_title"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <!--<com.xyl.ui.view.MyLinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:background="@color/bag_gray"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:padding="10dp">-->
+
+            <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="3"-->
+            <!--android:drawableLeft="@drawable/flag"-->
+            <!--android:text="类型" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/tv_leixing"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="8"-->
+            <!--android:drawablePadding="5dp"-->
+            <!--android:textSize="14sp"-->
+            <!--android:gravity="right"-->
+            <!--android:text="选择类型"-->
+            <!--android:textColor="#bfbfbf" />-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="18dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_weight="0.5"-->
+            <!--android:src="@drawable/jiaobiao" />-->
+
+            <!--</com.xyl.ui.view.MyLinearLayout>-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="单位" />
+
+                <EditText
+                    android:id="@+id/et_danwei"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="建卡时间" />
+
+                <TextView
+                    android:id="@+id/tv_jiankashijian"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="1.基本情况" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="姓名" />
+
+                <EditText
+                    android:id="@+id/et_xingming"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="性别" />
+
+                <TextView
+                    android:id="@+id/tv_xingbie"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="身份证号" />
+
+                <EditText
+                    android:id="@+id/et_shenfenzheng"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="年龄" />
+
+                <EditText
+                    android:id="@+id/et_nianling"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="联系方式" />
+
+                <EditText
+                    android:id="@+id/et_lianxifangshi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="居住地址" />
+
+                <EditText
+                    android:id="@+id/et_jvzhudizhi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="住房情况" />
+
+                <TextView
+                    android:id="@+id/tv_zhufangqingkuang"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="2.去程返程情况（14天内异地外出流动情况）" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="去程情况" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_layout5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="去程时间" />
+
+                <TextView
+                    android:id="@+id/tv_quchengshijian"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="目的地(省，市)" />
+
+                <TextView
+                    android:id="@+id/tv_mudidi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="6"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否经湖北中转" />
+
+                <TextView
+                    android:id="@+id/sfwuhanzhongzhuan"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="返程情况" />
+
+            </LinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="返程时间" />
+
+                <TextView
+                    android:id="@+id/tv_fanchengshijian"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="出发地(省，市)" />
+
+                <TextView
+                    android:id="@+id/tv_chufadi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="6"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="返程工具" />
+
+                <TextView
+                    android:id="@+id/tv_fanchenggongjv"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="8"
+                    android:text="航班/车次/车牌号" />
+
+                <EditText
+                    android:id="@+id/et_banci"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+            <com.xyl.ui.view.MyLinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="是否经停湖北" />
+
+                <TextView
+                    android:id="@+id/tv_isStopWuhan"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="6"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="经停湖北何地" />
+
+                <EditText
+                    android:id="@+id/et_stop_wuhan_where"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="2"
+                    android:text="经停时间" />
+
+                <EditText
+                    android:id="@+id/et_jingtingshijian"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:background="@drawable/seal_edit_back"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:focusableInTouchMode="false"
+                    android:focusable="false"
+                    android:hint="20200212:20:20"
+                    android:textColor="#bfbfbf"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/tv_commit"
+        android:background="@drawable/btn_login_press"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="提交"/>
+
+</LinearLayout>

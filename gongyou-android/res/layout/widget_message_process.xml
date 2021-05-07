@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_head"
+        style="@style/widget_title"
+        android:text="工单状态" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#cecece" />
+
+    <LinearLayout
+        android:id="@+id/ll_content_process"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_process0"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process1"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process1"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process2"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process2"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process3"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process3"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process4"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process4"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process5"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process5"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process6"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process6"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process7"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process7"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process8"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process8"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process9"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process9"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process10"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process10"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process11"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process11"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process12"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process12"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process13"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process13"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process14"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process14"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process15"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process15"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process16"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process16"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process17"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process17"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process18"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process18"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process19"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process19"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process20"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process20"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process21"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process21"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process22"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process22"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process23"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process23"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process24"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process24"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process25"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process25"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process26"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process26"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process27"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process27"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process28"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process28"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process29"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process29"
+            style="@style/WidgetMessageProcessTextView" />
+
+        <ImageView
+            android:id="@+id/iv_process30"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process30"
+            style="@style/WidgetMessageProcessTextView" />
+         <ImageView
+            android:id="@+id/iv_process31"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process31"
+            style="@style/WidgetMessageProcessTextView" />
+         <ImageView
+            android:id="@+id/iv_process32"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process32"
+            style="@style/WidgetMessageProcessTextView" />
+         <ImageView
+            android:id="@+id/iv_process33"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process33"
+            style="@style/WidgetMessageProcessTextView" />
+         <ImageView
+            android:id="@+id/iv_process34"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process34"
+            style="@style/WidgetMessageProcessTextView" />
+         <ImageView
+            android:id="@+id/iv_process35"
+            style="@style/WidgetMessageProcessImageView" />
+
+        <TextView
+            android:id="@+id/tv_process35"
+            style="@style/WidgetMessageProcessTextView" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.0dp"
+        android:layout_marginTop="5dp"
+        android:background="#cecece" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#eeeeee" />
+
+</LinearLayout>

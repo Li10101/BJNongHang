@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xyl.ui.activity.SeeAssetContentActivity"
+    android:orientation="vertical"
+   >
+    <include layout="@layout/title_top"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="20dp">
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_pdjieguo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="盘点结果:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_swzc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="实物资产描述:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_swzczt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="实物资产状态:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_zrr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="责任人:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_zcyt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="资产用图:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_ddms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="地点描述:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_dj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单价:"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_bz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="备注:"/>
+    </LinearLayout>
+</LinearLayout>

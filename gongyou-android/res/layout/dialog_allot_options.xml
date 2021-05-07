@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="10dp"
+    >
+    
+	<TextView 
+	    android:id="@+id/set_youxian"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="请设置工单优先级："
+	    android:textSize="14sp"
+	    />
+    
+	<RadioGroup 
+	    android:id="@+id/rg_priority"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    >
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_low"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:checked="true"
+	        android:hint="0"
+	        android:text="低"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_medium"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="1"
+	        android:text="中"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_high"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="2"
+	        android:text="高"/>
+	</RadioGroup>
+	
+    <TextView 
+        android:id="@+id/set_leixing"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="请选择工单类型："
+	    android:textSize="14sp"
+	    android:layout_marginTop="8dp"
+	    />
+    
+	<RadioGroup 
+	    android:id="@+id/rg_caseMoneyType"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    >
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_private"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="0"
+	        android:text="有偿"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_public"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:checked="true"
+	        android:hint="1"
+	        android:text="无偿"/>
+	</RadioGroup>
+	
+	<TextView 
+	     android:id="@+id/set_quyu"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="请选择工单区域："
+	    android:textSize="14sp"
+	    android:layout_marginTop="8dp"
+	    />
+    
+	<RadioGroup 
+	    android:id="@+id/rg_caseArea"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    >
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_share"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:checked="true"
+	        android:hint="1"
+	        android:text="公共"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_user"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="0"
+	        android:text="客户"/>
+	</RadioGroup>
+	
+	<TextView 
+	     android:id="@+id/set_gongdanzu"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+		android:visibility="visible"
+	    android:text="请选择工单组："
+	    android:textSize="14sp"
+	    android:layout_marginTop="8dp"
+	    />
+    
+	<RadioGroup 
+	    android:id="@+id/rg_caseProfession"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+		android:visibility="visible"
+	    android:orientation="horizontal"
+	    >
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_qiang"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="0"
+	        android:text="强电"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_ruo"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="1"
+	        android:text="弱电"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_nuan"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:hint="2"
+	        android:text="暖通"/>
+	    
+	    <RadioButton 
+	        android:id="@+id/rb_zong"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:checked="true"
+	        android:hint="3"
+	        android:text="综修"/>
+	</RadioGroup>
+	
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="8dp"
+	    android:orientation="horizontal"
+	    android:gravity="center"
+	    >
+	    
+	    <TextView 
+	    android:id="@+id/set_feiyong"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="费用："
+	    android:textSize="14sp"/>
+	    
+	    <EditText 
+	        android:id="@+id/et_allot_money"
+	        android:layout_width="0dp"
+	        android:layout_weight="1"
+	        android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:inputType="number"
+            android:text="0"/>
+	    
+	</LinearLayout>
+	
+	<EditText
+            android:id="@+id/et_allot_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:hint=" 请输入派发内容"
+            android:lines="3"
+            android:maxLines="3"
+            android:singleLine="false"
+            android:textSize="14sp"
+            android:layout_marginTop="8dp"
+            />
+</LinearLayout>

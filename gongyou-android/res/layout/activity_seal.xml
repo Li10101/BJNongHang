@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cart_choice"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context=".ui.activity.LeaveActivity">
+
+    <include layout="@layout/common_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:layout_marginLeft="10dp"
+                    android:text="用印单位" />
+
+                <EditText
+                    android:id="@+id/et_userSeal_caompany"
+                    android:background="@drawable/edit_back"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:textSize="14sp"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_dataTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="日期" />
+
+                <TextView
+                    android:id="@+id/tv_datTime"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:textSize="14sp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf" />
+
+                <ImageView
+                    android:id="@+id/iv_datTime_delete"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_seal_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="印章名称" />
+
+                <TextView
+                    android:id="@+id/seal_name"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="6"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:textSize="14sp"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf" />
+
+                <ImageView
+                    android:id="@+id/iv_seal_name_delete"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="用印文件名称" />
+
+                <EditText
+                    android:background="@drawable/edit_back"
+                    android:id="@+id/et_seal_file_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:lines="5"
+                    android:gravity="top"
+                    android:maxLines="10"
+                    android:textSize="14sp"
+                    android:hint="请输入"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="文件份数" />
+
+                <EditText
+                    android:id="@+id/et_file_number"
+                    android:background="@drawable/edit_back"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:textSize="14sp"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf" />
+
+            </LinearLayout>
+
+            <com.xyl.ui.view.MyLinearLayout
+                android:id="@+id/mll_file_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="文件类别" />
+
+                <TextView
+                    android:id="@+id/tv_seal_type"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:textSize="14sp"
+                    android:gravity="right"
+                    android:text="请选择"
+                    android:textColor="#bfbfbf" />
+
+                <ImageView
+                    android:id="@+id/iv_seal_type_delete"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/jiaobiao" />
+
+            </com.xyl.ui.view.MyLinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="备注" />
+
+                <EditText
+                    android:id="@+id/et_remarks"
+                    android:background="@drawable/edit_back"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:drawablePadding="5dp"
+                    android:gravity="right"
+                    android:textSize="14sp"
+                    android:hint="请输入"
+                    android:textColor="#bfbfbf" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="图片" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_showImags"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                </androidx.recyclerview.widget.RecyclerView>
+            </LinearLayout>
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="vertical"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="附件" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60dp"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_marginTop="20dp"-->
+                    <!--android:src="@drawable/tupian" />-->
+            <!--</LinearLayout>-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/bag_gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/flag"
+                    android:text="审批人" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/work_flow"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/bag_gray"-->
+                <!--android:orientation="vertical"-->
+                <!--android:padding="10dp">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="抄送人" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60dp"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_marginTop="20dp"-->
+                    <!--android:src="@drawable/chaosong" />-->
+            <!--</LinearLayout>-->
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/bt_sealSubmit"
+        android:background="@drawable/btn_login_press"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="提交"/>
+
+</LinearLayout>

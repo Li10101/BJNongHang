@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:gravity="center"
+    android:id="@+id/ll_item"
+    android:background="@drawable/item_fun_back"
+    android:layout_gravity="center"
+   >
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:id="@+id/iv_gvitem"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:src="@drawable/user_function_request" />
+        <TextView
+            android:id="@+id/tv_gvitem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_gvitem"
+            android:gravity="center"
+            android:text="客户报修"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp" />
+       <!--<com.xyl.ui.widget.NotifyTextView-->
+        <!--android:id="@+id/tv_notify_count"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/bg_notify"-->
+        <!--android:gravity="center"-->
+        <!--android:text="1"-->
+        <!--android:textColor="#FFFFFF"-->
+        <!--android:textSize="10sp"-->
+        <!--android:visibility="visible" />-->
+    </RelativeLayout>
+
+
+

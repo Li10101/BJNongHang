@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:xrefreshview="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    tools:context=".ui.activity.AnswerListActivity">
+    <include layout="@layout/answer_title"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/answer_back"/>
+
+        <com.andview.refreshview.XRefreshView
+            android:id="@+id/xrefreshview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dp_20"
+            android:layout_marginTop="@dimen/dp_20"
+            android:layout_marginRight="@dimen/dp_20"
+            android:layout_marginBottom="@dimen/dp_20"
+            android:background="#fff"
+            xrefreshview:isHeightMatchParent="true"
+            xrefreshview:isWidthMatchParent="true">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_answerList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        </com.andview.refreshview.XRefreshView>
+    </FrameLayout>
+
+</LinearLayout>

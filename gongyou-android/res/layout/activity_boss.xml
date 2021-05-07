@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5F0F6">
+    
+    <WebView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/wv_boss"/>
+	
+    <ImageView 
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:padding="12dp"
+        android:id="@+id/iv_boss_exit1"
+        android:src="@drawable/rightmenu"/>
+    
+    <ImageView 
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:padding="12dp"
+        android:id="@+id/iv_boss_exit2"
+        android:src="@drawable/rightmenu"/>
+    
+    <ImageView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/img_loding"
+        android:src="@drawable/bg_gif"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:background="#E5F0F6"/>
+</RelativeLayout>

@@ -1,0 +1,165 @@
+package com.warehouse.activity;
+
+import android.support.v4.app.Fragment;
+import android.support.v4.view.ViewPager;
+import android.util.DisplayMetrics;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+
+
+import com.google.gson.Gson;
+import com.warehouse.R;
+import com.warehouse.adapter.FragmentAdapter;
+import com.warehouse.base.BaseActivity;
+import com.warehouse.bean.LoginBean;
+import com.warehouse.fragment.inventoryfragment.ProductFragment;
+import com.warehouse.fragment.inventoryfragment.ReviewFragment;
+import com.warehouse.utils.SharedPreferencesUtil;
+
+import java.util.ArrayList;
+
+import butterknife.Bind;
+import butterknife.OnClick;
+
+
+public class InventoryActivity extends BaseActivity implements ViewPager.OnPageChangeListener {
+    @Bind(R.id.tab1_tv)
+    TextView tab1Tv;
+    @Bind(R.id.tab2_tv)
+    TextView tab2Tv;
+    @Bind(R.id.cursor)
+    View cursor;
+    @Bind(R.id.third_vp)
+    ViewPager thirdVp;
+    @Bind(R.id.toolbar_left_btn)
+    Button toolbarLeftBtn;
+    private RelativeLayout toolbarContentRlyt;
+    //private Button toolbarLeftBtn;
+    private TextView toolbarLeftTv;
+    private TextView toolbarTitleTv;
+    private Button toolbarRightBtn;
+    private TextView toolbarRightTv;
+
+    // fragment对象集合
+    private ArrayList<Fragment> fragmentsList;
+    // 记录当前选中的tab的index
+//    private int currentIndex = 0;
+    // 指示器的偏移量
+    private int offset = 0;
+    // 左margin
+//    private int leftMargin = 0;
+    // 屏幕宽度
+    private int screenWidth = 0;
+    // 屏幕宽度的三分之一
+    private int screen1_3;
+    //
+    private LinearLayout.LayoutParams lp;
+    private LoginBean loginBean;
+
+    @Override
+    public int getLayoutId() {
+       // isSideBack=false;
+        return R.layout.activity_inventory;
+    }
+
+    @Override
+    protected void initView() {
+        String param = SharedPreferencesUtil.getString(getApplicationContext(), SharedPreferencesUtil.LOGIN_BEAN);
+        loginBean = (LoginBean) getIntent().getSerializableExtra("LoginBean");
+        if (loginBean ==null){
+            loginBean =  new Gson().fromJson(param,LoginBean.class);
+        }
+        toolbarContentRlyt = findViewById( R.id.toolbar_content_rlyt );
+        toolbarLeftBtn =  findViewById( R.id.toolbar_left_btn );
+        toolbarLeftTv =  findViewById( R.id.toolbar_left_tv );
+        toolbarTitleTv = findViewById( R.id.toolbar_title_tv );
+        toolbarRightBtn = findViewById( R.id.toolbar_right_btn );
+        toolbarRightTv =  findViewById( R.id.toolbar_right_tv );
+        toolbarLeftBtn.setVisibility(View.VISIBLE);
+        toolbarTitleTv.setVisibility(View.VISIBLE);
+        toolbarTitleTv.setText("采购");
+
+
+        DisplayMetrics dm = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(dm);
+        screenWidth = dm.widthPixels;
+        screen1_3 = screenWidth / 2;
+        lp = (LinearLayout.LayoutParams) cursor.getLayoutParams();
+    }
+
+
+    @Override
+    protected void initData() {
+
+        fragmentsList = new ArrayList<>();
+        ProductFragment productFragment = new ProductFragment();
+        productFragment.setFlag(0);
+        fragmentsList.add(productFragment);
+        ReviewFragment reviewFragment = new ReviewFragment();
+        reviewFragment.setLoginData(loginBean,0);
+        fragmentsList.add(reviewFragment);
+
+        thirdVp.setAdapter(new FragmentAdapter(getSupportFragmentManager(),
+                fragmentsList));
+        thirdVp.setCurrentItem(0);
+        thirdVp.setOffscreenPageLimit(2);
+        thirdVp.addOnPageChangeListener(this);
+    }
+
+    @Override
+    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+        offset = (screen1_3 - cursor.getLayoutParams().width) / 2;
+        Log.d("111", position + "--" + positionOffset + "--"
+                + positionOffsetPixels);
+        final float scale = getResources().getDisplayMetrics().density;
+        if (position == 0) {// 0<->1
+            lp.leftMargin = (int) (positionOffsetPixels / 2) + offset;
+        } else if (position == 1) {// 1<->2
+            lp.leftMargin = (int) (positionOffsetPixels / 2) + screen1_3 +offset;
+        }
+        cursor.setLayoutParams(lp);
+//        currentIndex = position;
+        upTextcolor(position);
+    }
+    private void upTextcolor(int position){
+        if (position==0){
+            tab1Tv.setTextColor(getResources().getColor(R.color.title_bag));
+            tab2Tv.setTextColor(getResources().getColor(R.color.text_color_context));
+        }else if(position==1){
+            tab1Tv.setTextColor(getResources().getColor(R.color.text_color_context));
+            tab2Tv.setTextColor(getResources().getColor(R.color.title_bag));
+        }else if(position==2){
+            tab1Tv.setTextColor(getResources().getColor(R.color.text_color_context));
+            tab2Tv.setTextColor(getResources().getColor(R.color.text_color_context));
+        }
+    }
+    @Override
+    public void onPageSelected(int position) {
+
+    }
+
+    @Override
+    public void onPageScrollStateChanged(int state) {
+
+    }
+
+    @OnClick({R.id.tab1_tv, R.id.tab2_tv,R.id.toolbar_left_btn})
+    public void onClick(View view) {
+        switch (view.getId()) {
+            case R.id.tab1_tv:
+                thirdVp.setCurrentItem(0);
+                break;
+            case R.id.tab2_tv:
+                thirdVp.setCurrentItem(1);
+                break;
+            case R.id.toolbar_left_btn:
+                finish();
+                break;
+
+        }
+    }
+}
